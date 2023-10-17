@@ -12,7 +12,9 @@ Answer
 1. Take app named: app.py from my github repository
 2. Take dockfile from my github
    Write commends:
+   ```
    docker build -t my-app . #build image
+   ```
    docker tag my-app user/repository:tag #tag ur app
    docker push user/repository:tag #push image to dockerhub
 3-6. Take YAML files from my github repository # change direction image in deployment.yaml
