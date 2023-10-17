@@ -8,7 +8,7 @@ Kubernetes task:
 
 
 
-
+Answer
 1. Take app named: app.py from my github repository
 2. Take dockfile from my github
    Write commends:
