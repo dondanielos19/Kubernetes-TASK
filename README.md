@@ -16,11 +16,16 @@ Answer
    docker build -t my-app . #build image
    ```
    docker tag my-app user/repository:tag #tag ur app
+   ```
    docker push user/repository:tag #push image to dockerhub
+   ```
 3-6. Take YAML files from my github repository # change direction image in deployment.yaml
    Write commends:
+   ```
    kubectl create -f . #create all yaml files
+   ```
    kubectl get all # check all paramets are working
+   ```
    minikube service app-service # take url and check app
 
 
