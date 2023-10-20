@@ -1,4 +1,4 @@
-Kubernetes task:   
+## Kubernetes task:   
 1. Write simple application in "flask" with 2 environment variables. 
 2. Write dockerfile, container app and send to dockerhub.
 3. Create YAML deployment file. The deployment should run a Docker container using our image, and it should create 3 replicas of the container.
@@ -8,7 +8,7 @@ Kubernetes task:
 
 
 
-Answer
+## Answer
 1. Take app named: app.py from my github repository
 2. Take dockfile from my github
    Write commends:
