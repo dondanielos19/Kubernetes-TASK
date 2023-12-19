@@ -17,7 +17,7 @@
    docker build -t my-app . #build image
    ```
    ```
-   docker tag my-app user/repository:tag              # tag ur app
+   docker tag my-app user/repository:tag              # tag your app
    ```
    ```
    docker push user/repository:tag #push image to dockerhub
